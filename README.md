@@ -180,18 +180,11 @@ CRUD প্রোজেক্ট লিখলে ইউটিউবে অনে
 ![nazrul_islam_nayan_7](https://github.com/nayanchamp7/wordpress-developer-guideline-bangla/assets/43903460/4906defd-6ea2-4f14-801f-8609640e5202) <br>
 Nazrul Islam Nayan <br>
 Senior WordPress Developer @storepress <br>
-Educator [@Learn With Nayan](https://www.facebook.com/learnwithnayan) <br>
+Educator [@Guruzi Academy](https://www.facebook.com/guruziacademy) <br>
 [Mail](nazrulislamnayan7@gmail.com) |
 [Facebook](https://www.facebook.com/nazrulislamnayan2023) |
 [LinkedIn](https://www.linkedin.com/in/nazrul-islam-nayan) |
-[Youtube](https://www.youtube.com/@learnwithnayan4u)
-
-## Stay With WordPress Tips
-
-<p align="left">
-<a href="https://www.facebook.com/learnwithnayan"><img src="https://github.com/nayanchamp7/wordpress-developer-guideline-bangla/assets/43903460/4a288244-1e36-4f5a-a9ef-e7b53bdf9975" width="600"></a>
-</p>
-
+[Youtube](https://www.youtube.com/@guruziacademy)
 
 
 
